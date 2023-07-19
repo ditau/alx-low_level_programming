@@ -4,6 +4,7 @@
  * starting with 1 and 2
  * followed by a new line
  *
+ * Return: (Success)
  */
 
 int main(void)
