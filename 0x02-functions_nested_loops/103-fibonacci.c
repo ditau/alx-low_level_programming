@@ -5,7 +5,7 @@
  *
  */
 
-int main (void)
+int main(void)
 {
 	int i;
 	unsigned long int j, k, next, sum;
@@ -15,9 +15,9 @@ int main (void)
 	sum 0;
 
 	for (i = 1; i <= 33; ++i)
-	{ 
+	{
 		if (j < 4000000 && (j % 2) == 0)
-		{ 
+		{
 			sum = sum + j;
 
 		}
